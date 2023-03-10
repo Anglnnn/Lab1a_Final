@@ -1,0 +1,15 @@
+1	Sorbex		54.2	Pills	3Mg	Biofarma	antipyretic
+2	Teraflu		15	Pills	3Mg	Biofarma	painkiller
+3	Mefeneminca	36.8	Pills	3Mg	Biofarma	antipyretic
+4	Cenapsin	60	Pills	3Mg	Biofarma	spasmolytic
+5	Senopred	30	Pills	3Mg	Biofarma	painkiller
+6	Aspirine	37.5	Pills	3Mg	Biofarma	antipyretic
+7	Pantenol	22.8	Pills	3Mg	Biofarma	painkiller
+8	Solex		88.2	Pills	3Mg	Biofarma	spasmolytic
+9	Spazmalgon 	37.5	Pills	3Mg	Biofarma	spasmolytic
+10	Amiksin		40.5	Pills	3Mg	Biofarma	spasmolytic
+11	Papaverin	54.5	Pills	3Mg	Biofarma	painkiller
+12	Kellin		110	Pills	3Mg	Biofarma	antipyretic
+13	Pastinacyn	99	Pills	3Mg	Biofarma	antipyretic
+14	Salsolyn	60	Pills	3Mg	Biofarma	antipyretic
+15	Angyotrophyn	35	Pills	3Mg	Biofarma	spasmolytic

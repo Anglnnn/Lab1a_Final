@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pharmacy">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Pharmacy::Customer">
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pharmacy::Medication">
+        <NestedTypes>
+          <Class Name="Pharmacy::Medication::Category" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pharmacy::Delivery">
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pharmacy::Order">
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pharmacy::Database">
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Pharmacy::Admin">
+        <TypeIdentifier>
+          <NewMemberFileName>Lab1_.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lab1_.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

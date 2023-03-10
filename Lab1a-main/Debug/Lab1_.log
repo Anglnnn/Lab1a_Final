@@ -1,0 +1,14 @@
+﻿  Lab1_.cpp
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(92,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(109,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(130,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(180,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(195,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(221,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(269,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(279,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(289,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(356,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(399,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Boomie\Desktop\Lab1_-main\Lab1_.cpp(340): warning C4715: Pharmacy::Admin::Check_Admin_Login: значение возвращается не при всех путях выполнения
+  Lab1_.vcxproj -> C:\Users\Boomie\Desktop\Lab1_-main\Debug\Lab1_.exe
